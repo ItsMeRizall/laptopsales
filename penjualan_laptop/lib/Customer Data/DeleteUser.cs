@@ -27,9 +27,14 @@ namespace penjualan_laptop.lib.Customer_Data
 
             Db_Helper db_Helper = new Db_Helper("localhost", "5432", "penjualan_laptop", "postgres", "Rizal020304");
             List<dynamic> data_id = db_Helper.ConvertToList("Select id_customers from customers");
+            List<dynamic> cust_id = db_Helper.ConvertToList("Select id_customer from orders");
             try
             {
-                if (data_id.Contains(int.Parse(delete_id_input.Text)))
+                if (cust_id.Contains(int.Parse(delete_id_input.Text))){
+                    alert.Visible = true;
+                    alert.Text = "CUSTOMER MEMILIKI RIWAYAT PEMBELIAN";
+                }
+                else if (data_id.Contains(int.Parse(delete_id_input.Text)))
                 {
                     db_Helper.OpenConnection();
                     string query = "DELETE FROM customers WHERE id_customers = @id";

@@ -32,8 +32,8 @@ alter table orders add constraint cust_order_pk foreign key (id_customer) refere
 alter table order_details add constraint laptop_order_details_pk foreign key (id_laptop) references laptop(id_product);
 alter table order_details add constraint order_order_details_pk foreign key (order_id) references orders(order_id) on delete cascade;
 
-insert into customers (id_customers, customer_name, no_hp, alamat) values (1, 'Moch Syaiful Rizal', '081252693922', 'Situbondo'),
-(2, 'Desy Arinda Milyana', '083125256498', 'Situbondo');
+insert into customers (id_customers, customer_name, no_hp, alamat) values (1, 'Moch Syaiful Rizal', '087654321891', 'Situbondo'),
+(2, 'Desy Arinda Milyana', '087654785432', 'Situbondo');
 
 insert into laptop (id_product, name_product, price, units_in_stock) values (101, 'Axioo MyBook Z10 Metal', 9000000, 30), (102, 'HP F14sq098t', 7000000, 20),
 (103, 'Dell 786', 4300000, 50);

@@ -1,0 +1,90 @@
+C:\Users\User\source\repos\penjualan_laptop\penjualan_laptop\bin\Debug\net6.0-windows\penjualan_laptop.exe
+C:\Users\User\source\repos\penjualan_laptop\penjualan_laptop\bin\Debug\net6.0-windows\penjualan_laptop.deps.json
+C:\Users\User\source\repos\penjualan_laptop\penjualan_laptop\bin\Debug\net6.0-windows\penjualan_laptop.runtimeconfig.json
+C:\Users\User\source\repos\penjualan_laptop\penjualan_laptop\bin\Debug\net6.0-windows\penjualan_laptop.dll
+C:\Users\User\source\repos\penjualan_laptop\penjualan_laptop\bin\Debug\net6.0-windows\penjualan_laptop.pdb
+C:\Users\User\source\repos\penjualan_laptop\penjualan_laptop\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\source\repos\penjualan_laptop\penjualan_laptop\bin\Debug\net6.0-windows\Npgsql.dll
+C:\Users\User\source\repos\penjualan_laptop\penjualan_laptop\obj\Debug\net6.0-windows\penjualan_laptop.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\penjualan_laptop\penjualan_laptop\obj\Debug\net6.0-windows\penjualan_laptop.HomePage.resources
+C:\Users\User\source\repos\penjualan_laptop\penjualan_laptop\obj\Debug\net6.0-windows\penjualan_laptop.csproj.GenerateResource.cache
+C:\Users\User\source\repos\penjualan_laptop\penjualan_laptop\obj\Debug\net6.0-windows\penjualan_laptop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\penjualan_laptop\penjualan_laptop\obj\Debug\net6.0-windows\penjualan_laptop.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\penjualan_laptop\penjualan_laptop\obj\Debug\net6.0-windows\penjualan_laptop.AssemblyInfo.cs
+C:\Users\User\source\repos\penjualan_laptop\penjualan_laptop\obj\Debug\net6.0-windows\penjualan_laptop.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\penjualan_laptop\penjualan_laptop\obj\Debug\net6.0-windows\penjualan_laptop.csproj.CopyComplete
+C:\Users\User\source\repos\penjualan_laptop\penjualan_laptop\obj\Debug\net6.0-windows\penjualan_laptop.dll
+C:\Users\User\source\repos\penjualan_laptop\penjualan_laptop\obj\Debug\net6.0-windows\refint\penjualan_laptop.dll
+C:\Users\User\source\repos\penjualan_laptop\penjualan_laptop\obj\Debug\net6.0-windows\penjualan_laptop.pdb
+C:\Users\User\source\repos\penjualan_laptop\penjualan_laptop\obj\Debug\net6.0-windows\penjualan_laptop.genruntimeconfig.cache
+C:\Users\User\source\repos\penjualan_laptop\penjualan_laptop\obj\Debug\net6.0-windows\ref\penjualan_laptop.dll
+C:\Users\User\source\repos\penjualan_laptop\penjualan_laptop\obj\Debug\net6.0-windows\penjualan_laptop.Properties.Resources.resources
+C:\Users\User\source\repos\penjualan_laptop\penjualan_laptop\obj\Debug\net6.0-windows\penjualan_laptop.lib.ProductForm.resources
+C:\Users\User\source\repos\penjualan_laptop\penjualan_laptop\obj\Debug\net6.0-windows\penjualan_laptop.lib.CustomerForm.resources
+C:\Users\User\source\repos\penjualan_laptop\penjualan_laptop\obj\Debug\net6.0-windows\penjualan_laptop.lib.OrderForm.resources
+C:\Users\User\source\repos\penjualan_laptop\penjualan_laptop\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\User\source\repos\penjualan_laptop\penjualan_laptop\obj\Debug\net6.0-windows\penjualan_laptop.lib.data.AddProductForm.resources
+C:\Users\User\source\repos\penjualan_laptop\penjualan_laptop\obj\Debug\net6.0-windows\penjualan_laptop.lib.dataProduct.DeleteData.resources
+C:\Users\User\source\repos\penjualan_laptop\penjualan_laptop\obj\Debug\net6.0-windows\penjualan_laptop.lib.dataProduct.EditData.resources
+C:\Users\User\source\repos\penjualan_laptop\penjualan_laptop\obj\Debug\net6.0-windows\penjualan_laptop.lib.dataProduct.EditDataValue.resources
+C:\Users\User\source\repos\penjualan_laptop\penjualan_laptop\obj\Debug\net6.0-windows\penjualan_laptop.lib.Customer_Data.addCustomers.resources
+C:\Users\User\source\repos\penjualan_laptop\penjualan_laptop\obj\Debug\net6.0-windows\penjualan_laptop.lib.Customer_Data.DeleteUser.resources
+C:\Users\User\source\repos\penjualan_laptop\penjualan_laptop\obj\Debug\net6.0-windows\penjualan_laptop.lib.Customer_Data.EditCustomers.resources
+C:\Users\User\source\repos\penjualan_laptop\penjualan_laptop\obj\Debug\net6.0-windows\penjualan_laptop.lib.dataProduct.EditValue.resources
+C:\Users\User\source\repos\penjualan_laptop\penjualan_laptop\obj\Debug\net6.0-windows\penjualan_laptop.lib.Customer_Data.EditDataCustomers.resources
+C:\Users\User\source\repos\penjualan_laptop\penjualan_laptop\obj\Debug\net6.0-windows\penjualan_laptop.lib.Orders.AddOrders.resources
+C:\Users\User\source\repos\penjualan_laptop\penjualan_laptop\obj\Debug\net6.0-windows\penjualan_laptop.lib.Orders.DeleteOrders.resources
+E:\Kuliah\Semester 2\Pemrograman Berorientasi Objek (PBO)\Praktikum\Praktikum\penjualan_laptop\penjualan_laptop\bin\Debug\net6.0-windows\penjualan_laptop.exe
+E:\Kuliah\Semester 2\Pemrograman Berorientasi Objek (PBO)\Praktikum\Praktikum\penjualan_laptop\penjualan_laptop\bin\Debug\net6.0-windows\penjualan_laptop.deps.json
+E:\Kuliah\Semester 2\Pemrograman Berorientasi Objek (PBO)\Praktikum\Praktikum\penjualan_laptop\penjualan_laptop\bin\Debug\net6.0-windows\penjualan_laptop.runtimeconfig.json
+E:\Kuliah\Semester 2\Pemrograman Berorientasi Objek (PBO)\Praktikum\Praktikum\penjualan_laptop\penjualan_laptop\bin\Debug\net6.0-windows\penjualan_laptop.dll
+E:\Kuliah\Semester 2\Pemrograman Berorientasi Objek (PBO)\Praktikum\Praktikum\penjualan_laptop\penjualan_laptop\bin\Debug\net6.0-windows\penjualan_laptop.pdb
+E:\Kuliah\Semester 2\Pemrograman Berorientasi Objek (PBO)\Praktikum\Praktikum\penjualan_laptop\penjualan_laptop\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Kuliah\Semester 2\Pemrograman Berorientasi Objek (PBO)\Praktikum\Praktikum\penjualan_laptop\penjualan_laptop\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+E:\Kuliah\Semester 2\Pemrograman Berorientasi Objek (PBO)\Praktikum\Praktikum\penjualan_laptop\penjualan_laptop\bin\Debug\net6.0-windows\Npgsql.dll
+E:\Kuliah\Semester 2\Pemrograman Berorientasi Objek (PBO)\Praktikum\Praktikum\penjualan_laptop\penjualan_laptop\obj\Debug\net6.0-windows\penjualan_laptop.csproj.AssemblyReference.cache
+E:\Kuliah\Semester 2\Pemrograman Berorientasi Objek (PBO)\Praktikum\Praktikum\penjualan_laptop\penjualan_laptop\obj\Debug\net6.0-windows\penjualan_laptop.HomePage.resources
+E:\Kuliah\Semester 2\Pemrograman Berorientasi Objek (PBO)\Praktikum\Praktikum\penjualan_laptop\penjualan_laptop\obj\Debug\net6.0-windows\penjualan_laptop.lib.Customer_Data.addCustomers.resources
+E:\Kuliah\Semester 2\Pemrograman Berorientasi Objek (PBO)\Praktikum\Praktikum\penjualan_laptop\penjualan_laptop\obj\Debug\net6.0-windows\penjualan_laptop.lib.Customer_Data.DeleteUser.resources
+E:\Kuliah\Semester 2\Pemrograman Berorientasi Objek (PBO)\Praktikum\Praktikum\penjualan_laptop\penjualan_laptop\obj\Debug\net6.0-windows\penjualan_laptop.lib.Customer_Data.EditCustomers.resources
+E:\Kuliah\Semester 2\Pemrograman Berorientasi Objek (PBO)\Praktikum\Praktikum\penjualan_laptop\penjualan_laptop\obj\Debug\net6.0-windows\penjualan_laptop.lib.Customer_Data.EditDataCustomers.resources
+E:\Kuliah\Semester 2\Pemrograman Berorientasi Objek (PBO)\Praktikum\Praktikum\penjualan_laptop\penjualan_laptop\obj\Debug\net6.0-windows\penjualan_laptop.lib.CustomerForm.resources
+E:\Kuliah\Semester 2\Pemrograman Berorientasi Objek (PBO)\Praktikum\Praktikum\penjualan_laptop\penjualan_laptop\obj\Debug\net6.0-windows\penjualan_laptop.lib.data.AddProductForm.resources
+E:\Kuliah\Semester 2\Pemrograman Berorientasi Objek (PBO)\Praktikum\Praktikum\penjualan_laptop\penjualan_laptop\obj\Debug\net6.0-windows\penjualan_laptop.lib.dataProduct.DeleteData.resources
+E:\Kuliah\Semester 2\Pemrograman Berorientasi Objek (PBO)\Praktikum\Praktikum\penjualan_laptop\penjualan_laptop\obj\Debug\net6.0-windows\penjualan_laptop.lib.dataProduct.EditData.resources
+E:\Kuliah\Semester 2\Pemrograman Berorientasi Objek (PBO)\Praktikum\Praktikum\penjualan_laptop\penjualan_laptop\obj\Debug\net6.0-windows\penjualan_laptop.lib.dataProduct.EditDataValue.resources
+E:\Kuliah\Semester 2\Pemrograman Berorientasi Objek (PBO)\Praktikum\Praktikum\penjualan_laptop\penjualan_laptop\obj\Debug\net6.0-windows\penjualan_laptop.lib.dataProduct.EditValue.resources
+E:\Kuliah\Semester 2\Pemrograman Berorientasi Objek (PBO)\Praktikum\Praktikum\penjualan_laptop\penjualan_laptop\obj\Debug\net6.0-windows\penjualan_laptop.lib.OrderForm.resources
+E:\Kuliah\Semester 2\Pemrograman Berorientasi Objek (PBO)\Praktikum\Praktikum\penjualan_laptop\penjualan_laptop\obj\Debug\net6.0-windows\penjualan_laptop.lib.Orders.AddOrders.resources
+E:\Kuliah\Semester 2\Pemrograman Berorientasi Objek (PBO)\Praktikum\Praktikum\penjualan_laptop\penjualan_laptop\obj\Debug\net6.0-windows\penjualan_laptop.lib.Orders.DeleteOrders.resources
+E:\Kuliah\Semester 2\Pemrograman Berorientasi Objek (PBO)\Praktikum\Praktikum\penjualan_laptop\penjualan_laptop\obj\Debug\net6.0-windows\penjualan_laptop.lib.ProductForm.resources
+E:\Kuliah\Semester 2\Pemrograman Berorientasi Objek (PBO)\Praktikum\Praktikum\penjualan_laptop\penjualan_laptop\obj\Debug\net6.0-windows\penjualan_laptop.Properties.Resources.resources
+E:\Kuliah\Semester 2\Pemrograman Berorientasi Objek (PBO)\Praktikum\Praktikum\penjualan_laptop\penjualan_laptop\obj\Debug\net6.0-windows\penjualan_laptop.csproj.GenerateResource.cache
+E:\Kuliah\Semester 2\Pemrograman Berorientasi Objek (PBO)\Praktikum\Praktikum\penjualan_laptop\penjualan_laptop\obj\Debug\net6.0-windows\penjualan_laptop.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kuliah\Semester 2\Pemrograman Berorientasi Objek (PBO)\Praktikum\Praktikum\penjualan_laptop\penjualan_laptop\obj\Debug\net6.0-windows\penjualan_laptop.AssemblyInfoInputs.cache
+E:\Kuliah\Semester 2\Pemrograman Berorientasi Objek (PBO)\Praktikum\Praktikum\penjualan_laptop\penjualan_laptop\obj\Debug\net6.0-windows\penjualan_laptop.AssemblyInfo.cs
+E:\Kuliah\Semester 2\Pemrograman Berorientasi Objek (PBO)\Praktikum\Praktikum\penjualan_laptop\penjualan_laptop\obj\Debug\net6.0-windows\penjualan_laptop.csproj.CoreCompileInputs.cache
+E:\Kuliah\Semester 2\Pemrograman Berorientasi Objek (PBO)\Praktikum\Praktikum\penjualan_laptop\penjualan_laptop\obj\Debug\net6.0-windows\penjualan_laptop.csproj.CopyComplete
+E:\Kuliah\Semester 2\Pemrograman Berorientasi Objek (PBO)\Praktikum\Praktikum\penjualan_laptop\penjualan_laptop\obj\Debug\net6.0-windows\penjualan_laptop.dll
+E:\Kuliah\Semester 2\Pemrograman Berorientasi Objek (PBO)\Praktikum\Praktikum\penjualan_laptop\penjualan_laptop\obj\Debug\net6.0-windows\refint\penjualan_laptop.dll
+E:\Kuliah\Semester 2\Pemrograman Berorientasi Objek (PBO)\Praktikum\Praktikum\penjualan_laptop\penjualan_laptop\obj\Debug\net6.0-windows\penjualan_laptop.pdb
+E:\Kuliah\Semester 2\Pemrograman Berorientasi Objek (PBO)\Praktikum\Praktikum\penjualan_laptop\penjualan_laptop\obj\Debug\net6.0-windows\penjualan_laptop.genruntimeconfig.cache
+E:\Kuliah\Semester 2\Pemrograman Berorientasi Objek (PBO)\Praktikum\Praktikum\penjualan_laptop\penjualan_laptop\obj\Debug\net6.0-windows\ref\penjualan_laptop.dll
+E:\Kuliah\Semester 2\Pemrograman Berorientasi Objek (PBO)\Praktikum\Praktikum\penjualan_laptop\penjualan_laptop\bin\Debug\net6.0-windows\HarfBuzzSharp.dll
+E:\Kuliah\Semester 2\Pemrograman Berorientasi Objek (PBO)\Praktikum\Praktikum\penjualan_laptop\penjualan_laptop\bin\Debug\net6.0-windows\LiveChartsCore.dll
+E:\Kuliah\Semester 2\Pemrograman Berorientasi Objek (PBO)\Praktikum\Praktikum\penjualan_laptop\penjualan_laptop\bin\Debug\net6.0-windows\LiveChartsCore.SkiaSharpView.dll
+E:\Kuliah\Semester 2\Pemrograman Berorientasi Objek (PBO)\Praktikum\Praktikum\penjualan_laptop\penjualan_laptop\bin\Debug\net6.0-windows\SkiaSharp.dll
+E:\Kuliah\Semester 2\Pemrograman Berorientasi Objek (PBO)\Praktikum\Praktikum\penjualan_laptop\penjualan_laptop\bin\Debug\net6.0-windows\SkiaSharp.HarfBuzz.dll
+E:\Kuliah\Semester 2\Pemrograman Berorientasi Objek (PBO)\Praktikum\Praktikum\penjualan_laptop\penjualan_laptop\bin\Debug\net6.0-windows\runtimes\osx\native\libHarfBuzzSharp.dylib
+E:\Kuliah\Semester 2\Pemrograman Berorientasi Objek (PBO)\Praktikum\Praktikum\penjualan_laptop\penjualan_laptop\bin\Debug\net6.0-windows\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+E:\Kuliah\Semester 2\Pemrograman Berorientasi Objek (PBO)\Praktikum\Praktikum\penjualan_laptop\penjualan_laptop\bin\Debug\net6.0-windows\runtimes\win-x64\native\libHarfBuzzSharp.dll
+E:\Kuliah\Semester 2\Pemrograman Berorientasi Objek (PBO)\Praktikum\Praktikum\penjualan_laptop\penjualan_laptop\bin\Debug\net6.0-windows\runtimes\win-x86\native\libHarfBuzzSharp.dll
+E:\Kuliah\Semester 2\Pemrograman Berorientasi Objek (PBO)\Praktikum\Praktikum\penjualan_laptop\penjualan_laptop\bin\Debug\net6.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+E:\Kuliah\Semester 2\Pemrograman Berorientasi Objek (PBO)\Praktikum\Praktikum\penjualan_laptop\penjualan_laptop\bin\Debug\net6.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+E:\Kuliah\Semester 2\Pemrograman Berorientasi Objek (PBO)\Praktikum\Praktikum\penjualan_laptop\penjualan_laptop\bin\Debug\net6.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+E:\Kuliah\Semester 2\Pemrograman Berorientasi Objek (PBO)\Praktikum\Praktikum\penjualan_laptop\penjualan_laptop\bin\Debug\net6.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+E:\Kuliah\Semester 2\Pemrograman Berorientasi Objek (PBO)\Praktikum\Praktikum\penjualan_laptop\penjualan_laptop\bin\Debug\net6.0-windows\LiveChartsCore.SkiaSharpView.WinForms.dll
+E:\Kuliah\Semester 2\Pemrograman Berorientasi Objek (PBO)\Praktikum\Praktikum\penjualan_laptop\penjualan_laptop\bin\Debug\net6.0-windows\OpenTK.dll
+E:\Kuliah\Semester 2\Pemrograman Berorientasi Objek (PBO)\Praktikum\Praktikum\penjualan_laptop\penjualan_laptop\bin\Debug\net6.0-windows\OpenTK.GLControl.dll
+E:\Kuliah\Semester 2\Pemrograman Berorientasi Objek (PBO)\Praktikum\Praktikum\penjualan_laptop\penjualan_laptop\bin\Debug\net6.0-windows\SkiaSharp.Views.Desktop.Common.dll
+E:\Kuliah\Semester 2\Pemrograman Berorientasi Objek (PBO)\Praktikum\Praktikum\penjualan_laptop\penjualan_laptop\bin\Debug\net6.0-windows\SkiaSharp.Views.WindowsForms.dll

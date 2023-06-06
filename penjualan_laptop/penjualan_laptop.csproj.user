@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="lib\Customer Data\addCustomers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="lib\Customer Data\DeleteUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="lib\Customer Data\EditCustomers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="lib\Customer Data\EditDataCustomers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="lib\CustomerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="lib\dataProduct\DeleteData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="lib\dataProduct\AddData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="lib\dataProduct\EditData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="lib\dataProduct\EditDataValue.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="lib\OrderForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="lib\Orders\AddOrders.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="lib\Orders\DeleteOrders.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="lib\ProductForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
